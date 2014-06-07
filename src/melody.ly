@@ -44,7 +44,7 @@ melodyWithChordSymbols =
 				\mark \default
 				\repeat volta 2 {
 
-					g''8 g''8 g''8 g''8 g''8 g''8 g''8 g''8 |
+					g''8^\markup { \italic approximate } g''8 g''8 g''8 g''8 g''8 g''8 g''8 |
 					b''8 b''8 b''8 b''8 b''8 b''8 b''8 b''8 |
 					g''8 g''8 g''8 g''8 g''8 g''8 g''8 g''8 |
 					a''8 a''8 a''8 a''8 a''8 a''8 a''8 a''8 | \break
