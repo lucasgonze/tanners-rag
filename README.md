@@ -4,4 +4,6 @@ The straight eighth notes in the first eight bars are approximations of the rhyt
 
 Transcribed by Lucas Gonze from the original. Any copyright in my work here is hereby dedicated to the public domain using a CC0 1.0 Universal dedication.
 
+I can easily do guitar, banjo or mandolin tab if it's helpful. Just post an issue.
+
 ![](https://raw.githubusercontent.com/lucasgonze/tanners-rag/master/build/concert.png)
