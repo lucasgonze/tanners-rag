@@ -22,7 +22,7 @@ melodyWithChordSymbols =
 						g2 d2 | c2 g2 | d1 | s |
 
 						% section C
-						d1 | s | g1 | e1:7aug |
+						d1 | s | g1 | gs |
 						a1:7 | s | g1 | d1:7 |
 
 						% coda
